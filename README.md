@@ -13,5 +13,5 @@ apt update && apt install -y curl
 ```
 2.
 ```
-bash <(curl -s https://raw.githubusercontent.com/Ryan-Hu-233/render/main/main.sh)
+bash <(curl -s https://raw.githubusercontent.com/H2O2-Team/render/main/main.sh)
 ```
